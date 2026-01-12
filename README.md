@@ -1,5 +1,8 @@
 # CDucks
 
+## Game Poster
+![Poster by Benjamin Hall](img/Poster.png)
+
 ## Description: 
 This is a continuation of the development of [CDucks](https://github.com/KERUITSICEDARVILLE/CDucks) as subjected to five graded assignments per the Computer Graphics (CS4710) curriculum at Cedarville Uni. Our team took inspiration from map management games such as Plague Inc. and Bloons Tower Defense. A full-featured (PC-only) game was presented at a game exhibition at Cedarville Uni.
 
@@ -21,5 +24,3 @@ Several options exist for play.
  - You may consult any of the official releases (four as of 11/05/2025) [here](https://github.com/KERUITSICEDARVILLE/CDucks).
  - You may open this project in Unity (version 6000.2.9f1 preferred)
  - There's a Build0.zip in the main repo for easy access to a (mostly standalone) executable
-
-## Game Poster
