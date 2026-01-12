@@ -1,7 +1,12 @@
 # CDucks
 
-## Game Poster
 ![Poster by Benjamin Hall](img/Poster.png)
+
+## How to Play:
+Several options exist for play.
+ - You may consult any of the official releases (four as of 11/05/2025) [here](https://github.com/KERUITSICEDARVILLE/CDucks).
+ - You may open this project in Unity (version 6000.2.9f1 preferred)
+ - There's a Build0.zip in the main repo for easy access to a (mostly standalone) executable
 
 ## Description: 
 This is a continuation of the development of [CDucks](https://github.com/KERUITSICEDARVILLE/CDucks) as subjected to five graded assignments per the Computer Graphics (CS4710) curriculum at Cedarville Uni. Our team took inspiration from map management games such as Plague Inc. and Bloons Tower Defense. A full-featured (PC-only) game was presented at a game exhibition at Cedarville Uni.
@@ -18,9 +23,3 @@ In order to gain back some of the user's spent currency, the user may remove duc
 The banking system also requires explanation. There are two "wallets". One wallet contains currency you have earned this round and will be able to spend next round. The other wallet contains currency that you may currently use. The only way to obtain currency to spend immediately is by removing ducks.
 
 If you are looking to play, best of luck!
-
-## How to Play:
-Several options exist for play.
- - You may consult any of the official releases (four as of 11/05/2025) [here](https://github.com/KERUITSICEDARVILLE/CDucks).
- - You may open this project in Unity (version 6000.2.9f1 preferred)
- - There's a Build0.zip in the main repo for easy access to a (mostly standalone) executable
